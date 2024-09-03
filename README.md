@@ -9,5 +9,5 @@ To use this software you will need:
 >Make sure you add the path to the stimmex software to your MATLAB path before running this application
 
 # Starting the Application
-1. Navigate to the folder containing the CerestimDeviceManager application
+1. Within MATLAB, navigate to the folder containing the CerestimDeviceManager application
 2. Right-click on CerestimDeviceManager.mlapp and select 'Run' from the context menu, OR type 'CerestimDeviceManager' into the command window
